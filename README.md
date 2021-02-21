@@ -1,2 +1,2 @@
-# react-canvas-template
+# canvas-starter
 Created with CodeSandbox
